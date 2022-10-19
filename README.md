@@ -1,4 +1,3 @@
-# JavaWebApplication_ArtGallery
 # ArtGallery_Website
 
 Features:
